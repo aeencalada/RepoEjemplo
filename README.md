@@ -1,2 +1,2 @@
 # RepoEjemplo
-Repositorio ejemplo
+**Repositorio** de *prueba*
